@@ -1,12 +1,16 @@
-I have learned when to separate files into modules.
-I have learned classes to write programs with 'myprogram' for main source code.
+I have learned in python, when to separate files into modules.
+I have learned in python, classes to write programs with 'myprogram' for main source code.
 :
-I have learned for loops and how they iterate.
+I have learned in python, for loops and how they iterate.
 
-I have learned that classes must contain the data that is instance use.
+I have learned in python, that classes must contain the data that is instance use.
 
-I have learned while statements control the on/off functionality.
+I have learned in python, while statements control the on/off functionality.
 
-I have learned to read and write files.
+I have learned in python, to read and write files.
 
-I have learned to make use key pair values to iterate over 
+I have learned in python, to make use key pair values to iterate over 
+
+I have learned in python, that in order to work with strings in a file line
+by line you must create  a string to hold the lines as in the assignment.py
+
