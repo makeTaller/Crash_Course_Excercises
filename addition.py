@@ -11,6 +11,7 @@ while True:
             second_number = int(second_number)
         except ValueError:
             print("You should enter a number : ")
-         else:
-            print(str(first_number) + str(second_number))
+        else:
+            total = first_number + second_number
+            print(str(first_number)+ " + " + str(second_number) + " = " + str(total))
 
