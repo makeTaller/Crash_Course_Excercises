@@ -1,4 +1,4 @@
-
+""" This program  reads lines in a file then concatenates and counts them"""
 filename = 'Macbeth.txt'
 words = 0
 with open(filename) as f:
