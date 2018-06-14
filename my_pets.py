@@ -5,14 +5,15 @@ def show_pets():
         print("Reading file:....")
         try:
             with open(pet) as file_object:
-                my_pet = file_object.read()
+                contents = file_object.read()
         except FileNotFoundError:
-            print(" Sorry the file doesn't exist to me! ")
+            pass
+            #print(" Sorry the file doesn't exist to me! ")
         else:
             if pet == 'cats.txt':
-                print(" The cat's name is: " + my_pet )
+                print(" The cat's name is: " + contents )
             elif pet == 'dogs.txt':
-                print(" The dog's name is: " + my_pet )
+                print(" The dog's name is: " + contents )
 
 show_pets()
 
