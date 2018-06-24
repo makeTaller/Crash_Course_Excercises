@@ -1,6 +1,7 @@
 
 spike = {
     'owner': 'david',
+    'play': 'run',
     'species': 'dog',
     'fav_food' : 'bisket',
     'fav_toy' : 'ball',
