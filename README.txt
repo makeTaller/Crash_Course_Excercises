@@ -8,3 +8,6 @@ These are a set of programs that where written in reference to the lessons learn
 I will be adding additional programs form the Doing Math with Python and Python Playground soon. 
 
 I will become an expert programmer!!
+
+I am currently working on some Continuous Integration tools that
+will enhance my Devops skills.
