@@ -11,3 +11,10 @@ I will become an expert programmer!!
 
 I am currently working on some Continuous Integration tools that
 will enhance my Devops skills.
+
+
+Tue Jul 17 12:53:56 CDT 2018
+
+Interveiw Process can be difficult but I am ready!
+
+
